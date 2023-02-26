@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in **Backend development experience**
 
-- 🔭 I’m currently working on [a restaurant menu sharing application](https://github.com/G-vans/menu-share)
+- 🔭 I’m currently working on [a property data application](https://comps-analytics.vercel.app/)
 
 - 🌱 I’m currently learning **Ruby on rails and NodeJS**
 
