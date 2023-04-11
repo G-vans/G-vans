@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [comparable system](https://github.com/G-vans/Comps-system)
 
-- 👨‍💻 All of my projects will be available at [jevansotieno.dev](https://jevansotieno.dev)
+- 👨‍💻 My current projects are available at [jevans-portfolio website](https://jevans-portfolio.vercel.app/)
 
 - 💬 Ask me about **ruby, ruby on rails and javascript**
 
