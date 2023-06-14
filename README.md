@@ -1,7 +1,7 @@
 <h1 align="left">Hello 👋, I'm Jevans Otieno</h1>
-<h3 align="left">A backend developer from Kenya.</h3>
+<h3 align="left">A software developer from Kenya.</h3>
 
-- 👀 I’m interested in **Backend development experience**
+- 👀 I’m interested in **Fullstack development experience**
 
 - 🔭 I’m currently working on [a property data application](https://comps-analytics.vercel.app/)
 
