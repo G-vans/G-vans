@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on [a property data application](https://comps-analytics.vercel.app/)
 
-- 🌱 I’m currently learning **Ruby on rails and NodeJS**
+- 🌱 I’m currently learning **Ruby on rails**
 
 - 👯 I’m looking to collaborate on [comparable system](https://github.com/G-vans/Comps-system)
 
 - 👨‍💻 My current projects are available at [jevans-portfolio website](https://jevans-portfolio.vercel.app/)
 
-- 💬 Ask me about **ruby, ruby on rails and javascript**
+- 💬 Ask me about **ruby, ruby on rails and jumpstart**
 
 - 📫 How to reach me **jevansstanley@gmail.com**
 
